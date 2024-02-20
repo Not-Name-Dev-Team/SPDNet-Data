@@ -16,7 +16,7 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
         with:
           # 注意替换为你的 GitHub 源仓库地址
-          source-repo: git@github.com:catandA/catandMineModCustomRank_v2.git
+          source-repo: git@github.com:Not-Name-Dev-Team/SPDNet-Data.git
           # 注意替换为你的 Gitee 目标仓库地址
-          destination-repo: git@gitee.com:catandA/catand-mine-mod-custom-rank_v2.git
+          destination-repo: git@gitee.com:catandA/SPDNet-Data.git
           
