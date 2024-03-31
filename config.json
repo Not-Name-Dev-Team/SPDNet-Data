@@ -1,5 +1,5 @@
 {
-    "serverUrl":"",
+    "serverUrl":"http://127.0.0.1:25964/spdnet",
     "SPDVersion": "2.3.2",
     "NetVersion": "0.0.1",
     "GithubUpdateUrl": "https://github.com/catandA/catandMineModCustomRank_v2/releases/download/0.0.1/app-release.apk",
