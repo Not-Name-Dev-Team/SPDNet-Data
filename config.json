@@ -1,8 +1,8 @@
 {
     "serverUrl":"http://pz-2.zjiecloud.cc:25964/spdnet",
     "SPDVersion": "2.3.2",
-    "NetVersion": "0.0.1",
-    "GithubUpdateUrl": "https://github.com/catandA/catandMineModCustomRank_v2/releases/download/0.0.1/app-release.apk",
-    "GiteeUpdateUrl": "https://gitee.com/catandA/catand-mine-mod-custom-rank/releases/download/0.0.1/app-release.apk",
-    "changeLog": "我不知道 :("
+    "NetVersion": "0.0.2",
+    "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/0.0.2/SPDNet-2.3.2-0.0.2.apk",
+    "GiteeUpdateUrl": "https://gitee.com/catandA/SPDNet-Data/releases/download/0.0.2/SPDNet-2.3.2-0.0.2.apk",
+    "changeLog": "暂时删除刷屏的成就\\n修复赠送物品装备不会脱下的bug\\n添加默认服务器地址\\n流量现在也会更新服务器地址\\n修复排行榜页面显示问题\\n删除复制种子按钮\\n更换JSON库为fastjson以适配Android6.0\\n给玩家移动数据包添加判空防止崩溃\\n给原版逻辑添加各种判空防止崩溃"
 }
