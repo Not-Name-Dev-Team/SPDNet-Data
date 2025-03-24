@@ -1,8 +1,8 @@
 {
-    "serverUrl":"http://36.151.65.115:25964/spdnet",
-    "SPDVersion": "2.5.4",
+    "serverUrl":"http://36.151.65.119:25964/spdnet",
+    "SPDVersion": "3.0.2",
     "NetVersion": "0.0.1",
-    "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/2.5.4-0.0.1/SPDNet2.5.4-0.0.1.apk",
-    "GiteeUpdateUrl": "https://gitee.com/catandA/catand-mine-mod-custom-rank_test/releases/download/2.5.4-0.0.1/SPDNet2.5.4-0.0.1.apk",
-    "changeLog": "更新到地牢2.5.4版本 ;)"
+    "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/3.0.2-0.0.1/SPDNet-3.0.2-0.0.1.apk",
+    "GiteeUpdateUrl": "https://gitee.com/catandA/catand-mine-mod-custom-rank_test/releases/download/3.0.2-0.0.1/SPDNet-3.0.2-0.0.1.apk",
+    "changeLog": "更新到地牢3.0.2版本 ;)"
 }
