@@ -1,8 +1,8 @@
 {
     "serverUrl":"http://36.151.65.119:25964/spdnet",
     "SPDVersion": "3.0.2",
-    "NetVersion": "0.0.1",
-    "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/3.0.2-0.0.1/SPDNet-3.0.2-0.0.1.apk",
-    "GiteeUpdateUrl": "https://gitee.com/catandA/catand-mine-mod-custom-rank_test/releases/download/3.0.2-0.0.1/SPDNet-3.0.2-0.0.1.apk",
-    "changeLog": "更新到地牢3.0.2版本 ;)"
+    "NetVersion": "0.0.2",
+    "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/3.0.2-0.0.2/SPDNet3.0.2-0.0.2.APK",
+    "GiteeUpdateUrl": "https://gitee.com/catandA/SPDNet-Data/releases/download/3.0.2-0.0.2/SPDNet3.0.2-0.0.2.APK",
+    "changeLog": "添加十字架使用信息"
 }
