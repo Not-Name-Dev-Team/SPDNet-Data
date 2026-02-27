@@ -1,5 +1,5 @@
 {
-    "serverUrl":"http://36.151.65.119:25964/spdnet",
+    "serverUrl":"http://45.125.44.66:65535/spdnet",
     "SPDVersion": "3.2.5",
     "NetVersion": "0.0.1",
     "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/3.2.5-0.0.1/3.2.5-0.0.1.apk",
