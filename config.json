@@ -2,6 +2,7 @@
     "serverUrl":"http://45.125.44.66:65535/spdnet",
     "SPDVersion": "3.2.5",
     "NetVersion": "0.0.1",
+    "webUrl": "http://jdsalingzx.top",
     "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/3.2.5-0.0.1/3.2.5-0.0.1.apk",
     "GiteeUpdateUrl": "https://gitee.com/catandA/catand-mine-mod-custom-rank_test/releases/download/3.2.5-0.0.1/3.2.5-0.0.1.apk",
     "changeLog": "更新到3.2.5"
