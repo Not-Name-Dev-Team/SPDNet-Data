@@ -1,9 +1,9 @@
 {
     "serverUrl":"http://45.125.44.66:65535/spdnet",
-    "SPDVersion": "3.2.5",
+    "SPDVersion": "3.3.6",
     "NetVersion": "0.0.1",
-    "webUrl": "http://jdsalingzx.top",
-    "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/3.2.5-0.0.1/3.2.5-0.0.1.apk",
-    "GiteeUpdateUrl": "https://gitee.com/catandA/catand-mine-mod-custom-rank_test/releases/download/3.2.5-0.0.1/3.2.5-0.0.1.apk",
-    "changeLog": "更新到3.2.5"
+    "webUrl": "http://jdsalingzx.top:10061/",
+    "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/3.3.6-0.0.1/SPDNet3.3.6-0.0.1.APK",
+    "GiteeUpdateUrl": "https://gitee.com/catandA/catand-mine-mod-custom-rank_test/releases/download/3.3.6-0.0.1/SPDNet3.3.6-0.0.1.APK",
+    "changeLog": "更新到破碎地牢3.3.6\\n注册方式现在改为邮箱账号注册\\n添加完整的网页端\\n添加每日挑战\\n添加称号系统\\n游戏内进度完全云同步\\n聊天消息添加时间戳\\n游戏内添加注册按钮\\n优化性能\\nAndroid最低版本要求变为6.0\\n\\n修复\\n修复了主菜单的一个崩溃问题。\\n修复了装备物品的赠送逻辑。\\n修复了堆叠物品可能导致重复刷取的漏洞。\\n修复了向铁人角色赠送物品会被错误移除的问题。\\n修复了在其他界面查看增益状态时引用错误导致的问题。"
 }
