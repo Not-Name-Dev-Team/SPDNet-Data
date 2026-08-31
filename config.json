@@ -5,5 +5,6 @@
     "webUrl": "http://120.48.142.75:42910/",
     "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/3.3.6-0.0.2/SPDNet3.3.6-0.0.2.APK",
     "GiteeUpdateUrl": "https://gitee.com/catandA/catand-mine-mod-custom-rank_test/releases/download/3.3.6-0.0.2/SPDNet3.3.6-0.0.2.APK",
+    "ApkMd5": "12345", 
     "changeLog": "同步到破碎3.3.8"
 }
