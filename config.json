@@ -1,7 +1,7 @@
 {
   "serverUrl": "http://120.48.142.75:32814/spdnet",
-  "SPDVersion": "3.3.8",
-  "NetVersion": "0.1.2",
+  "SPDVersion": "4.0.0",
+  "NetVersion": "0.0.1",
   "webUrl": "http://120.48.142.75:42910/",
   "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/v4.0.0-0.0.1/4.0.0-0.0.1.apk",
   "GiteeUpdateUrl": "https://gitee.com/catandA/New-SPDNet/releases/download/v4.0.0-0.0.1/4.0.0-0.0.1.apk",
