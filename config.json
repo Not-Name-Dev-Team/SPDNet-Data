@@ -1,10 +1,10 @@
 {
   "serverUrl": "http://120.48.142.75:32814/spdnet",
   "SPDVersion": "4.0.0",
-  "NetVersion": "0.0.1",
+  "NetVersion": "0.0.2",
   "webUrl": "http://120.48.142.75:42910/",
-  "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/v4.0.0-0.0.1/4.0.0-0.0.1.apk",
-  "GiteeUpdateUrl": "https://gitee.com/catandA/New-SPDNet/releases/download/v4.0.0-0.0.1/4.0.0-0.0.1.apk",
-  "ApkMd5": "ce2208db439ee871a876ecd1c8e5783d",
-  "changeLog": "SPDNet v4.0.0-0.0.1\n全新功能：\n- 个人页显示全服排名与距上一名的分差，不再受 1000 名限制\n- 排行榜筛选无结果时，会说明是哪几个条件筛掉的，可一键重置\n修复：\n- 修复启动时误报更新，提示降级到旧版\n- 修复查看留言列表时点删除/点赞偶发闪退\n- 修复排行榜铁人模式被标为标准、每日挑战日期偏差一天\n- 修复个人中心改名后刷新失效\n- 修复聊天室登录过期后被踢回登录页，需重新找到原页面\n- 修复服务端崩溃与玩家退出后仍显示在线的问题\n优化：\n- 网页加载更快：首次打开体积减少约六成，聊天室在冷清时段不再频繁空转"
+  "GithubUpdateUrl": "https://github.com/Not-Name-Dev-Team/New-SPDNet/releases/download/v4.0.0-0.0.2/4.0.0-0.0.2.apk",
+  "GiteeUpdateUrl": "https://gitee.com/catandA/New-SPDNet/releases/download/v4.0.0-0.0.2/4.0.0-0.0.2.apk",
+  "ApkMd5": "92c36d43c2cb96044730aab461b861ab",
+  "changeLog": "SPDNet v4.0.0-0.0.2\n全新功能：\n- 个人页显示全服排名与距上一名的分差，不再受 1000 名限制\n- 排行榜筛选无结果时，会说明是哪几个条件筛掉的，可一键重置\n修复：\n- 修复启动时误报更新，提示降级到旧版\n- 修复查看留言列表时点删除/点赞偶发闪退\n- 修复查看他人留言标记时偶发闪退（场景已关闭后仍收到标记数据）\n- 修复排行榜铁人模式被标为标准、每日挑战日期偏差一天\n- 修复个人中心改名后刷新失效\n- 修复聊天室登录过期后被踢回登录页，需重新找到原页面\n- 修复服务端崩溃与玩家退出后仍显示在线的问题\n优化：\n- 网页加载更快：首次打开体积减少约六成，聊天室在冷清时段不再频繁空转"
 }
